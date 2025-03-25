@@ -19,4 +19,7 @@
 
 llm支持：vercel
 
+## 关于作者
+
+邮箱：peterdong@sjtu.edu.cn
 
